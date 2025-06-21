@@ -17535,6 +17535,7 @@
     "repo": "c-degni/text-autocomplete"
   },
   {
+<<<<<<< HEAD
     "id": "simple-banner",
     "name": "Simple Banner",
     "author": "Sandro Ducceschi",
@@ -17568,5 +17569,12 @@
     "author": "Helpfeel Inc.",
     "description": "Display your Gyazo captures and embed them into your notes.",
     "repo": "nota/gyazo-obsidian-plugin"
+=======
+      "id": "groq-poly-chat",
+      "name": "PolyChat",
+      "author": "semernyakov",
+      "description": "A powerful chat extension with support for different AI models via the Groq API",
+      "repo": "semernyakov/polychat"
+>>>>>>> 2013d25a (Add PolyChat plugin with Groq API support)
   }
 ]
