@@ -54787,7 +54787,7 @@
     "id": "polymind",
     "name": "PolyMind",
     "author": "Ivan Semernyakov",
-    "description": "PolyMind: One Vault. Any Model. Infinite Evolution. Multimodal AI chat with Groq API — one-click model switching, history, and cross-device sync for seamless productivity. OpenAI and Claude support coming soon.",
+    "description": "PolyMind: Groq-powered AI assistant for Obsidian. Chat with Markdown notes, keep conversation history, switch models, and use note context. Current release 1.3.7 supports text and code chat; image and audio support are planned.",
     "repo": "semernyakov/polymind"
   }
 ]
